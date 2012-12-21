@@ -1,0 +1,4 @@
+lexicoR
+=======
+
+lexical statistics
